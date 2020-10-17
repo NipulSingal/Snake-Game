@@ -3,3 +3,7 @@ Game using p5.js library
 
 # Link Of The Game
 https://nipulsingal.github.io/Snake-Game/
+
+# Setup
+- clone this repository
+- run index.html in any browser
