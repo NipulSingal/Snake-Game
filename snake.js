@@ -42,6 +42,17 @@ class Snake {
       return false;
     }
     
+//     eat(pos) {
+//         let x = this.body[this.body.length-1].x;
+//       let y = this.body[this.body.length-1].y;
+//       if(x == pos.x && y == pos.y) {
+//         this.grow();
+//         return true;
+//       }
+//       return false;
+//     }
+  
+//     New Version
     eat(pos) {
         let x = this.body[this.body.length-1].x;
       let y = this.body[this.body.length-1].y;
